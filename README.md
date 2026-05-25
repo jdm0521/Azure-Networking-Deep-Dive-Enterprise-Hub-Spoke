@@ -25,7 +25,7 @@ This project focused heavily on understanding **how Azure traffic flows through 
 # Architecture Diagram
 
 
-![Architecture Diagram](./diagrams/architecture-diagram.png)
+![Architecture Diagram](./diagrams/diagram.png)
 
 
 ---
