@@ -1,0 +1,29 @@
+variable "resource_group_name" {
+  type = string
+}
+
+variable "location" {
+  type = string
+}
+
+variable "private_endpoint_name" {
+  type = string
+}
+
+variable "subnet_id" {
+  type = string
+}
+
+variable "storage_account_id" {
+  type = string
+}
+variable "vnet_id" {
+  type = string
+}
+variable "spoke1_vnet_id" {
+  type = string
+}
+
+variable "spoke2_vnet_id" {
+  type = string
+}
